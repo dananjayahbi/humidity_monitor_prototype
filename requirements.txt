@@ -1,0 +1,23 @@
+# Core GUI framework
+ttkbootstrap>=1.10.1
+
+# Data visualization
+matplotlib>=3.7.0
+
+# Serial communication
+pyserial>=3.5
+
+# Network utilities
+pythonping>=1.1.4
+
+# Standard library modules (no installation needed):
+# - tkinter (built-in with Python)
+# - datetime (built-in)
+# - json (built-in) 
+# - threading (built-in)
+# - collections (built-in)
+# - re (built-in)
+# - time (built-in)
+# - pathlib (built-in)
+# - os (built-in)
+# - sys (built-in)
