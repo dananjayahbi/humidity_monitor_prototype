@@ -1,6 +1,6 @@
 # Humidity Monitor Application
 
-A professional-grade ESP32 humidity monitoring system with real-time data visualization, alerting, and historical data analysis.
+An ESP32 humidity monitoring system with real-time data visualization, alerting, and historical data analysis.
 
 ## Features
 
